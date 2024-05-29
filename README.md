@@ -1,5 +1,7 @@
-## Hi there 👋
-
+<!-- ![MasterHead]() -->
+<h1 align="center">Hi 👋, I'm Sonali Kumawat</h1>
+<h3 align="center">A Passionate Frontend Developer.</h3>
+- 🌱 I’m currently learning **React Js**
 <!--
 **Sonali-0705/Sonali-0705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
