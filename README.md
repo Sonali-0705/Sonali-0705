@@ -1,20 +1,44 @@
-<h1 align="center">🌟 Welcome to My GitHub! 🚀</h1>
+# Hi, I'm Sonali Kumawat
 
-<p align="center">Hey there! I'm Sonali, an enthusiastic learner diving into the world of technology. Explore my projects and let's innovate together!</p>
+I am a MERN Stack Developer with a strong focus on building clean, responsive, and user-friendly applications. I enjoy working across both frontend and backend, creating efficient APIs, and delivering modern web experiences. My goal is to continue growing as a full-stack developer and contribute to impactful real-world projects.
 
-## <span style="color:#ff8c00;">About Me</span>
-👋 Hello! I'm Sonali, on a mission to explore the endless possibilities in tech. Currently on the path of self-discovery, learning and creating along the way!
+---
 
-## <span style="color:#ff8c00;">Current Focus</span>
-📚 Currently, I'm delving deep into:
-- **Frontend Development**: Mastering HTML, CSS, and JavaScript.
-- **React.js**: Building dynamic and responsive user interfaces.
-- **Backend Development**: Building scalable APIs and working with databases using Node.js and Express.
-- **MERN Stack**: Exploring full-stack development with MongoDB, Express, React, and Node.js.
-- **GitHub**: Learning the ins and outs of version control and collaboration.
+## About Me
+- IT graduate with hands-on training and internship experience  
+- Skilled in developing full-stack applications using the MERN stack  
+- Strong understanding of clean UI design, API development, and database management  
+- Passionate about problem-solving, learning new technologies, and writing maintainable code  
 
-## <span style="color:#ff8c00;">What You'll Find Here</span>
-📂 Dive into my repository to explore a variety of projects, from simple experiments to ambitious ideas. Each project is a step forward in my journey, showcasing my growth and passion for both frontend and backend technologies, with a special focus on the MERN stack.
+---
 
-## <span style="color:#ff8c00;">Keep Innovating!</span>
-🌈 Thanks for dropping by! Remember, the key to success is continuous learning and exploration. Let's innovate, create, and inspire together! 🚀✨
+## Skills
+**Frontend:** React.js, JavaScript, TypeScript, HTML, CSS, Tailwind CSS  
+**Backend:** Node.js, Express.js  
+**Database:** MongoDB  
+**Tools:** Git, GitHub, Postman, VS Code, Vercel, Netlify  
+**Concepts:** REST APIs, Authentication, Responsive UI, API Integration  
+
+---
+
+## What I Build
+My repositories include:  
+- Full-stack MERN applications  
+- Frontend projects with modern UI  
+- Backend APIs and CRUD applications  
+- Learning-based projects that reflect my growth in development  
+
+---
+
+## Current Focus
+- Strengthening full-stack development skills  
+- Building production-ready MERN applications  
+- Improving backend architecture and code structure  
+- Enhancing React performance and clean component patterns  
+
+---
+
+## Connect With Me
+Email: sonalikumawat700@gmail.com  
+LinkedIn: https://linkedin.com/in/sonali-kumawat  
+Portfolio: https://sonali-kumawat.netlify.app
